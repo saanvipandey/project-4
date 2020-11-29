@@ -1,0 +1,85 @@
+body{
+	text-align:center;
+	background-color:hotpink;
+}
+#marqueeStyle{
+	background-color:lightskyblue;
+	font-size:30px;
+}
+#video{
+	width:1000px;
+	height:1000px;
+}
+#map{
+	width:500px;
+	height:100px;
+}
+img{
+	width:300px;
+	height:300x;
+}
+#details{
+	margin-left:500px;
+	margin-right:35px
+}
+h3{
+	font-size:30px;
+}
+h4{
+	font-size:20px;
+}
+h5{
+	font-size:25px;
+}
+.travel_mainDiv{
+	border:1px solid;
+	padding-left:0px;
+	padding-right:0px;
+	float:none;
+}
+.trevel_mainDiv img{
+	width:100%;
+}
+.travel_mainDiv hr{
+	width:100%;
+}
+.travel_mainDiv h5,.travel_mainDiv p{
+	margin-left:20px;
+}
+.travel_mainDiv{
+	border:1px solid;
+	padding-left:0px;
+	padding-right:0px;
+	float:left;
+}
+.trevel_mainDiv img{
+	width:100%;
+}
+.travel_mainDiv hr{
+	width:230px;
+}
+.travel_mainDiv h5,.travel_mainDiv p{
+	margin-left:20px;
+}
+.row::after{
+	content:"";
+	clear:both;
+	display: table;
+}
+#avengers_endgame{
+	margin-bottom:10px;
+}
+.movie_head{
+	font-size:20px;
+	padding:6px 22px;
+	border-radius:10px;
+    margin-bottom:15px;
+	width:100%;
+	display:inline-block;
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+	color:orange;
+}
